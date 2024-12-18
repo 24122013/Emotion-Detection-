@@ -1,2 +1,3 @@
 # Emotion-Detection-
-Folder data and file keras: https://drive.google.com/drive/folders/1jsU62R67X7J7B_msP9c5h-p0p8Ib50yu?usp=drive_link
+Data, webapp, latex, slide:
+https://drive.google.com/drive/folders/1cswXyvUImAzS1m3BiNP5eOC5WbD97bQ6?usp=drive_link
